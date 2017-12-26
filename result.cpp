@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-# define MAX_COUNT 3 
+# define MAX_COUNT 10 // 設定最大輸入成績筆數 
 void preload(); // 第一步 
 /*
  第二步 
